@@ -3,7 +3,7 @@ This project is a part of `Full Stack Web Developer Nanodegree` cource from Udac
 
 ## Project Requirements
 1. Setup Linux server using Amazon [Lightrail](https://lightsail.aws.amazon.com/) service
-2. Checkout Item-Catalog project code from Github
+2. Checkout [Item-Catalog](https://github.com/rubinsaifi/Item-catalog.git) project code from Github
 3. Modify Google OAUTH Settings
 4. Host Item-Catalog application
 
@@ -13,6 +13,7 @@ This project is a part of `Full Stack Web Developer Nanodegree` cource from Udac
 2. Provide IP Address and Port number for review
 - IP: 54.245.59.128
 - SSH Ports: 22, 2222
+- Project URL: 
 3. Software used and configuration changes
 ```
 - Modified /etc/ssh/sshd_config to allow ssh connections on Port 22 and 2222
